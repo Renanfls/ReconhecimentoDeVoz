@@ -1,0 +1,12 @@
+@import '../base/_variaveis';
+
+h1 {
+    font-size: $size * 2;
+}
+h2 {
+    font-size: $size + 1.5;
+}
+h3 {
+    font-size: $size;
+    margin-top: 30px;
+}

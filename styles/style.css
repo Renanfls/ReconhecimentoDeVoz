@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+body {
+  align-items: center;
+  background-color: #222831;
+  color: #FCE38A;
+  display: flex;
+  flex-direction: column;
+  font-family: "Silkscreen", cursive;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+  text-align: center;
+}
+body span, body i {
+  color: #EEEEEE;
+}
+
+.mensagem {
+  font-size: 1.5rem;
+  margin-top: 30px;
+}
+.mensagem .box {
+  border: 2px solid #FCE38A;
+  display: inline-block;
+  font-size: 3rem;
+  margin: 20px 0;
+  padding: 5px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 30px;
+}
+
+.btn-jogar {
+  background: #FCE38A;
+  border: 0;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 8px 15px;
+}/*# sourceMappingURL=style.css.map */
